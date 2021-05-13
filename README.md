@@ -1,9 +1,9 @@
 # Female-Inventor-Data-Analysis
 Alex and Joy's Final Project for their Information Science class in 2021.
 
-- The final report: **PHASE IV.ipynb**
+- Final report: **PHASE V.ipynb**
 - Appendix: **Appendix_Data_Cleaning_Description.ipynb**
-- The analysis-ready dataset: **final.csv**
+- Analysis-ready dataset: **final.csv**
 
 Raw-Datasets：
 - share_of_women_inventors.csv
